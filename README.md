@@ -73,10 +73,6 @@ CONVERSOR DE CSV PARA EXCEL
 - **Pandas** - Manipulação de dados
 - **OpenPyXL** - Geração de arquivos Excel
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
